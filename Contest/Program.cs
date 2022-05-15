@@ -1,0 +1,1 @@
+﻿Contest.Solutions.ProblemA.Execute();
